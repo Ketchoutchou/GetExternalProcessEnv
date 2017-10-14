@@ -1,4 +1,4 @@
-# GetProcessPath
+# GetExternalProcessPath
 
 Retrieve PATH environment variable for an external running process
 
