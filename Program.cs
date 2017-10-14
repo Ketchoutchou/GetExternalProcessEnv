@@ -8,7 +8,7 @@ namespace GetExternalProcessPath
     {
         static void Main(string[] args)
         {
-            int pit = -1
+            int pit = -1;
 			Process process;
 			try {
 				var pid = Convert.ToInt32(args[0]);
