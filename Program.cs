@@ -8,11 +8,11 @@ namespace GetExternalProcessPath
     {
         static int Main(string[] args)
         {
-            int pit = -1;
+            int pid = -1;
 			Process process;
 			try {
-				var pid = Convert.ToInt32(args[0]);
-				var process = Process.GetProcessById(pid);
+				pid = Convert.ToInt32(args[0]);
+				process = Process.GetProcessById(pid);
 				var env = process.ReadEnvironmentVariables();
 				string path = env["PATH"];
 				//Console.WriteLine("");
