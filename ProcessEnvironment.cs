@@ -42,7 +42,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace GetExternalProcessPath
+namespace GetExternalProcessEnv
 {
     static class ProcessEnvironment
     {

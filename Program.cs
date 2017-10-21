@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Diagnostics;
 
-namespace GetExternalProcessPath
+namespace GetExternalProcessEnv
 {
     class Program
     {

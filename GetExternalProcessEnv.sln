@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetExternalProcessPath", "GetExternalProcessPath.csproj", "{8D498612-BE24-42D7-A1D7-638E4635AEAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetExternalProcessEnv", "GetExternalProcessEnv.csproj", "{8D498612-BE24-42D7-A1D7-638E4635AEAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
